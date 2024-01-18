@@ -1,2 +1,2 @@
-# git_practice_assignmnet
+# git_practice_assignment
 git practice collaborator assignment
